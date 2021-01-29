@@ -1,6 +1,4 @@
-*.class
+.gradle/*
 .classpath
 .project
-.settings/*
-target/*
-
+.settings
