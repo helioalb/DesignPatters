@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="me.helioalbano.designpatterns.behavioral.chainofresponsability.user.BankAccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-29T13:52:56" hostname="Helios-MacBook-Air.local" time="0.059">
+<testsuite name="me.helioalbano.designpatterns.behavioral.chainofresponsability.user.BankAccountTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-01T14:30:03" hostname="Helios-MacBook-Air.local" time="0.001">
   <properties/>
-  <testcase name="test()" classname="me.helioalbano.designpatterns.behavioral.chainofresponsability.user.BankAccountTest" time="0.059"/>
+  <testcase name="test()" classname="me.helioalbano.designpatterns.behavioral.chainofresponsability.user.BankAccountTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

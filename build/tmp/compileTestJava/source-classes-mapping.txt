@@ -1,6 +1,8 @@
 me/helioalbano/designpatterns/DesignpatternsApplicationTests.java
  me.helioalbano.designpatterns.DesignpatternsApplicationTests
-me/helioalbano/designpatterns/behavioral/chainofresponsability/user/AddressTest.java
- me.helioalbano.designpatterns.behavioral.chainofresponsability.user.AddressTest
 me/helioalbano/designpatterns/behavioral/chainofresponsability/user/BankAccountTest.java
  me.helioalbano.designpatterns.behavioral.chainofresponsability.user.BankAccountTest
+me/helioalbano/designpatterns/behavioral/chainofresponsability/user/AddressTest.java
+ me.helioalbano.designpatterns.behavioral.chainofresponsability.user.AddressTest
+me/helioalbano/designpatterns/behavioral/chainofresponsability/user/MainTest.java
+ me.helioalbano.designpatterns.behavioral.chainofresponsability.user.MainTest
