@@ -1,4 +1,6 @@
-package me.helioalbano.designpatterns.behavioral.visitor;
+package me.helioalbano.designpatterns.behavioral.visitor.impl;
+
+import me.helioalbano.designpatterns.behavioral.visitor.Visitor;
 
 public class DefaultVisitor implements Visitor {
   private int animalsVisited = 0;

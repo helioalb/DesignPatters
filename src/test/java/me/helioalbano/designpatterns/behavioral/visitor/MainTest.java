@@ -1,5 +1,8 @@
 package me.helioalbano.designpatterns.behavioral.visitor;
 
+import me.helioalbano.designpatterns.behavioral.visitor.impl.Cat;
+import me.helioalbano.designpatterns.behavioral.visitor.impl.DefaultVisitor;
+import me.helioalbano.designpatterns.behavioral.visitor.impl.Dog;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
